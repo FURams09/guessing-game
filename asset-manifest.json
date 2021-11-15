@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/guessing-game/static/css/main.9b30ed32.chunk.css",
-    "main.js": "/guessing-game/static/js/main.504f737f.chunk.js",
-    "main.js.map": "/guessing-game/static/js/main.504f737f.chunk.js.map",
-    "runtime-main.js": "/guessing-game/static/js/runtime-main.12783e0d.js",
-    "runtime-main.js.map": "/guessing-game/static/js/runtime-main.12783e0d.js.map",
-    "static/js/2.a8af80ad.chunk.js": "/guessing-game/static/js/2.a8af80ad.chunk.js",
-    "static/js/2.a8af80ad.chunk.js.map": "/guessing-game/static/js/2.a8af80ad.chunk.js.map",
-    "static/js/3.a7649735.chunk.js": "/guessing-game/static/js/3.a7649735.chunk.js",
-    "static/js/3.a7649735.chunk.js.map": "/guessing-game/static/js/3.a7649735.chunk.js.map",
+    "main.css": "/guessing-game/static/css/main.1d9732cc.chunk.css",
+    "main.js": "/guessing-game/static/js/main.5f5d38f7.chunk.js",
+    "main.js.map": "/guessing-game/static/js/main.5f5d38f7.chunk.js.map",
+    "runtime-main.js": "/guessing-game/static/js/runtime-main.cb749003.js",
+    "runtime-main.js.map": "/guessing-game/static/js/runtime-main.cb749003.js.map",
+    "static/js/2.11c23ac5.chunk.js": "/guessing-game/static/js/2.11c23ac5.chunk.js",
+    "static/js/2.11c23ac5.chunk.js.map": "/guessing-game/static/js/2.11c23ac5.chunk.js.map",
+    "static/js/3.7800d9b8.chunk.js": "/guessing-game/static/js/3.7800d9b8.chunk.js",
+    "static/js/3.7800d9b8.chunk.js.map": "/guessing-game/static/js/3.7800d9b8.chunk.js.map",
     "index.html": "/guessing-game/index.html",
-    "static/css/main.9b30ed32.chunk.css.map": "/guessing-game/static/css/main.9b30ed32.chunk.css.map",
-    "static/js/2.a8af80ad.chunk.js.LICENSE.txt": "/guessing-game/static/js/2.a8af80ad.chunk.js.LICENSE.txt"
+    "static/css/main.1d9732cc.chunk.css.map": "/guessing-game/static/css/main.1d9732cc.chunk.css.map",
+    "static/js/2.11c23ac5.chunk.js.LICENSE.txt": "/guessing-game/static/js/2.11c23ac5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.12783e0d.js",
-    "static/js/2.a8af80ad.chunk.js",
-    "static/css/main.9b30ed32.chunk.css",
-    "static/js/main.504f737f.chunk.js"
+    "static/js/runtime-main.cb749003.js",
+    "static/js/2.11c23ac5.chunk.js",
+    "static/css/main.1d9732cc.chunk.css",
+    "static/js/main.5f5d38f7.chunk.js"
   ]
 }
