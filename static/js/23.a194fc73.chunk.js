@@ -1,0 +1,2 @@
+(this["webpackJsonpguessing-game"]=this["webpackJsonpguessing-game"]||[]).push([[23],{120:function(s,e,i){"use strict";i.r(e),e.default=i.p+"static/media/Richard.1cc813d2.jpg"}}]);
+//# sourceMappingURL=23.a194fc73.chunk.js.map
